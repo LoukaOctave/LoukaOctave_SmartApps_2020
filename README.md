@@ -1,11 +1,12 @@
 # Louka Octave
-***Totaal: 15u***
+***Totaal: 16u***
 
 ## 13 juli 2021
 * GUI vorige project overnemen / Materialize CSS, React Router DOM, & Material Icons toevoegen aan project (1u30)
 * US006 : Counter component maken (1u)
+* Firebase SDK toevoegen / Firestore maken / Schrijf Count naar database (1u)
 
-***Totaal: 2u30***
+***Totaal: 3u30***
 
 ## 9 juli 2021
 * BPMN Inspect the ticket machine (1u)

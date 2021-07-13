@@ -1,5 +1,23 @@
 # Louka Octave
-***Totaal: 9u***
+***Totaal: 15u***
+
+## 13 juli 2021
+* GUI vorige project overnemen / Materialize CSS, React Router DOM, & Material Icons toevoegen aan project (1u30)
+* US006 : Counter component maken (1u)
+
+***Totaal: 2u30***
+
+## 9 juli 2021
+* BPMN Inspect the ticket machine (1u)
+* Oude BPMNs aangepast (30 min)
+
+***Totaal: 1u30***
+
+## 8 juli 2021
+* BPMN Assist a passenger (1u)
+* BPMN Count the number of passengers (1u)
+
+***Totaal: 2u***
 
 ## 5 juli 2021
 * Basis service worker toegevoegd / README (1u)

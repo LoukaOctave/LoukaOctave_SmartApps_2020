@@ -1,5 +1,11 @@
 # Louka Octave
-***Totaal: 16u***
+***Totaal: 18u30***
+
+## 16 juli 2021
+* US007 : Capacity check functie toevoegen aan Counter / Counter aanpassen (30 min)
+* US010 : InspectionForm component maken / Schrijf Inspection naar database (2u)
+
+***Totaal: 3u30***
 
 ## 13 juli 2021
 * GUI vorige project overnemen / Materialize CSS, React Router DOM, & Material Icons toevoegen aan project (1u30)

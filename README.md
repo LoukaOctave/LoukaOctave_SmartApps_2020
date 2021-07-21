@@ -1,5 +1,15 @@
 # Louka Octave
-***Totaal: 18u30***
+***Totaal: 21u30***
+
+## 21 juli 2021
+* US011: Inspection component maken (1u)
+
+***Totaal: 1u***
+
+## 20 juli 2021
+* US011: InspectionsList component maken (2u)
+
+***Totaal: 2u***
 
 ## 16 juli 2021
 * US007 : Capacity check functie toevoegen aan Counter / Counter aanpassen (30 min)

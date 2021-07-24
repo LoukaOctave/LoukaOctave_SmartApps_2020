@@ -1,5 +1,10 @@
 # Louka Octave
-***Totaal: 21u30***
+***Totaal: 22u30***
+
+## 24 juli 2021
+* Issue#5: Bug fixed (1u)
+
+***Totaal: 1u***
 
 ## 21 juli 2021
 * US011: Inspection component maken (1u)

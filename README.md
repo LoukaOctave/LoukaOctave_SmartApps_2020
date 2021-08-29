@@ -1,5 +1,15 @@
 # Louka Octave
-***Totaal: 22u30***
+***Totaal: 26u***
+
+## 29 augustus 2021
+* CSS: Layout verbeterd op Inspection/InspectionForm/InspectionsList (30 min)
+* Propere, werkende connection status banner toegevoegd (1u)
+
+## 27 augustus 2021
+* CSS: Layout en kleurenschema toegepast op Counter component (1u)
+
+## 29 juli 2021
+* Issue#5: Issue heropend / Final fix (1u)
 
 ## 24 juli 2021
 * Issue#5: Bug fixed (1u)
